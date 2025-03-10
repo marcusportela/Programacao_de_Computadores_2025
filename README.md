@@ -33,3 +33,7 @@ O resultado é o valor extra que o funcionário recebe por aquele dia de trabalh
 1. Compile o código:  
    ```sh
    javac Main.java
+
+## 📄 Referência  
+- **Livro: Use a Cabeça!: Java** aprendizado em programação orientada a objetos (OO) e Java.  
+- **Apostila Alura: Java e Orientação a Objetos** disponivel no link: [Site Alura]([https://www.exemplo.com](https://www.alura.com.br/apostila-java-orientacao-objetos?srsltid=AfmBOorrlWglMhV0ahe7XvrtmAERfQ-eaR_OPUalyvcHbAj3PC2JCDNM))
