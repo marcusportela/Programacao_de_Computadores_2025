@@ -37,3 +37,8 @@ O resultado é o valor extra que o funcionário recebe por aquele dia de trabalh
 ## 📄 Referência  
 - **Livro: SIERRA, Kathy e BATES, Bert. Use a Cabeça!: Java** aprendizado em programação orientada a objetos (OO) e Java. Alta Books; 2ª edição (16 novembro 2007). 496 p.  
 - **Apostila: ALURA. Java e Orientação a Objetos**. Disponível em: [Alura](https://www.alura.com.br/apostila-java-orientacao-objetos?srsltid=AfmBOorrlWglMhV0ahe7XvrtmAERfQ-eaR_OPUalyvcHbAj3PC2JCDNM). Acesso em 4 mar. 2025.
+
+## 📚 Integrantes
+- Ana Carolina Barbosa de Souza - souzaanacarolb@gmail.com
+- Marcus Vinicius Portela da Costa - marcusportela.mp@gmail.com
+
