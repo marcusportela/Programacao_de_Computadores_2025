@@ -1,7 +1,7 @@
 # 🕒 Cálculo de Horas Extras em Java  
 
 ## 📌 Sobre o Projeto  
-Este programa em **Java** permite calcular as horas extras de um funcionário com base no tempo trabalhado e no salário informado. Ele determina se houve trabalho além da carga horária padrão (8 horas ou 480 minutos) e calcula o acréscimo salarial correspondente.  
+Na disciplina "Programação de computadores", cursada no oitavo semestre da faculdade UDF, fizemos um programa em **Java** que permite calcular as horas extras de um funcionário com base no tempo trabalhado e no salário informado. Ele determina se houve trabalho além da carga horária padrão (8 horas ou 480 minutos) e calcula o acréscimo salarial correspondente.  
 
 ## 🛠️ Como Funciona?  
 1. O usuário insere:  
@@ -35,5 +35,5 @@ O resultado é o valor extra que o funcionário recebe por aquele dia de trabalh
    javac Main.java
 
 ## 📄 Referência  
-- **Livro: Use a Cabeça!: Java** aprendizado em programação orientada a objetos (OO) e Java.  
-- **Apostila Alura: Java e Orientação a Objetos** disponível no link: [Site Alura](https://www.alura.com.br/apostila-java-orientacao-objetos?srsltid=AfmBOorrlWglMhV0ahe7XvrtmAERfQ-eaR_OPUalyvcHbAj3PC2JCDNM)
+- **Livro: SIERRA, Kathy e BATES, Bert. Use a Cabeça!: Java** aprendizado em programação orientada a objetos (OO) e Java. Alta Books; 2ª edição (16 novembro 2007). 496 p.  
+- **Apostila: ALURA. Java e Orientação a Objetos**. Disponível em: [Site Alura](https://www.alura.com.br/apostila-java-orientacao-objetos?srsltid=AfmBOorrlWglMhV0ahe7XvrtmAERfQ-eaR_OPUalyvcHbAj3PC2JCDNM). Acesso em 4 mar. 2025.
