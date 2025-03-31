@@ -1,9 +1,8 @@
 from PyQt5 import QtWidgets, QtGui, QtCore
-import re
 import random
 import string
 
-# Function to check password strength
+# Função para verificar a qualidade de segurança da senha
 def senha_forte(senha):
     return (
         len(senha) >= 8
@@ -13,7 +12,7 @@ def senha_forte(senha):
         and any(c in "!@#$%^&*()-_=+" for c in senha)
     )
 
-# Function to generate a strong password
+# Função para gerar uma senha forte
 def gerar_senha():
     caracteres = string.ascii_letters + string.digits + "!@#$%^&*()-_=+"
     return "".join(random.choice(caracteres) for _ in range(12))
