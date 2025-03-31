@@ -1,3 +1,4 @@
+# Importação de bibliotecas
 from PyQt5 import QtWidgets, QtGui, QtCore
 import random
 import string
@@ -19,6 +20,7 @@ def gerar_senha():
 
 usuarios = {}
 
+# Inicialização Widgets Tela Inicial
 class TelaInicial(QtWidgets.QWidget):
     def __init__(self):
         super().__init__()
@@ -63,6 +65,7 @@ class TelaInicial(QtWidgets.QWidget):
         self.login_screen.show()
         self.close()
 
+# Inicialização Widgets Tela Cadastro
 class CadastroScreen(QtWidgets.QWidget):
     def __init__(self):
         super().__init__()
@@ -127,6 +130,7 @@ class CadastroScreen(QtWidgets.QWidget):
             self.sugestao_input.setText(f"Sugestão de senha: {gerar_senha()}")
             self.sugestao_input.setVisible(True)
 
+# Inicialização Widgets Tela Login
 class LoginScreen(QtWidgets.QWidget):
     def __init__(self):
         super().__init__()
