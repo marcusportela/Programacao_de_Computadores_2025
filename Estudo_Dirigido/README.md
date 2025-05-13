@@ -16,5 +16,5 @@ Utilizou-se como base o exercício elaborado na aula do dia 14/04/2025.
 
 # Seção 3 - Estrutura de Repetição
 
-![Sequencial](assets/EstruturaDeRepeticao.png)
+![Sequencial](assets/EstruturaDeRepeticao2.png)
 Utilizou-se como base o exercício elaborado na aula do dia 14/04/2025.
