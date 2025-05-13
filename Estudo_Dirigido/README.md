@@ -6,16 +6,15 @@ Teste
 
 # Seção 1 - Estrutura Sequencial
 
-Utilizou-se como base o exercício elaborado na aula do dia 17/03/2025.
 ![Sequencial](assets/EstruturaSequencial.png)
-
+Utilizou-se como base o exercício elaborado na aula do dia 17/03/2025.
 
 # Seção 2 - Estrutura de Decisão
 
-Utilizou-se como base o exercício elaborado na aula do dia 14/04/2025.
 ![Decisão](assets/EstruturaDeDecisao.png)
+Utilizou-se como base o exercício elaborado na aula do dia 14/04/2025.
 
 # Seção 3 - Estrutura de Repetição
 
-Utilizou-se como base o exercício elaborado na aula do dia 14/04/2025.
 ![Sequencial](assets/EstruturaDeRepeticao.png)
+Utilizou-se como base o exercício elaborado na aula do dia 14/04/2025.
