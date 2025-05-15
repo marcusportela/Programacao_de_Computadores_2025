@@ -10,6 +10,14 @@ Reunimos neste repositório todas atividades da disciplina "Programação de Com
 
 ## ✒️ Autores
 
-* **Ana Carolina Barbosa de Souza** - [github](https://github.com/anacarolbs) e [linkedin](https://www.linkedin.com/in/anacarolbs/)
-* **Marcus Vinicius Portela da Costa** - [github](https://github.com/marcusportela) e [linkedin](https://www.linkedin.com/in/marcusportelamp/)
+Todas as unidades:
+- Ana Carolina Barbosa de Souza - 27649865
+- Marcus Vinicius Portela da Costa - 27562689
+
+Unidade 2:  
+- Daniel Vitor Alves Mendes - 31352103  
+
+Unidade 3:
+- Fernando Rodrigues Leite Soares - 27727424
+
 
