@@ -4,7 +4,7 @@ Um sistema simples e eficaz para organizar suas tarefas diárias diretamente do 
 
 ---
 
-## 💡 O Valor do Projeto
+## 💡 Valor do Projeto
 
 Este projeto nasceu da necessidade comum de **organizar tarefas** e manter o controle de compromissos em um mundo cada vez mais acelerado.
 
@@ -22,7 +22,7 @@ Do ponto de vista da disciplina de **Programação de Computadores**, este proje
 
 ---
 
-## 🛠️ As Ferramentas
+## 🛠️ Ferramentas
 
 * **Linguagem de Programação:** Python 3.x
 * **Ferramentas de Teste:** `unittest` (módulo padrão do Python)
@@ -31,7 +31,7 @@ Do ponto de vista da disciplina de **Programação de Computadores**, este proje
 
 ---
 
-## 👥 A Força da Equipe
+## 👥 Equipe
 
 Este projeto foi desenvolvido por:
 
@@ -53,4 +53,4 @@ git clone [URL_DO_SEU_REPOSITORIO]
 cd [nome-do-seu-repositorio]
 
 # Execute o programa
-python gerenciador_de_tarefas.py
+python tarefas.py
