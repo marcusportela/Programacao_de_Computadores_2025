@@ -1,4 +1,8 @@
-# tarefas.py
+# Projeto técnico (A1) - Programação de Computadores
+# Integrantes:
+# Ana Carolina Barbosa de Souza - 27649865
+# Fernando Rodrigues Leite Soares - 27727424
+# Marcus Vinicius Portela da Costa - 27562689
 
 # Estrutura de dados para armazenar as tarefas
 # Cada tarefa será um dicionário com 'descricao', 'concluida' e 'prioridade'
