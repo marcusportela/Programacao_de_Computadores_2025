@@ -41,10 +41,11 @@ Este projeto foi desenvolvido por:
 
 ---
 
-## 📸 Printscreens do sistema
+## 📽️ Simulação do sistema
 
+[![Assista ao vídeo](tumbnail_simulacao.png)](https://drive.google.com/file/d/1DQ3-LJ5C_BU6OdRESrUM3NKWhb3uT1lx/view?usp=sharing)
 
-Para ver o sistema em ação, você pode clonar este repositório e rodar o arquivo `tarefas.py` em seu terminal.
+Você também pode clonar este repositório e rodar o arquivo `tarefas.py` em seu terminal.
 
 ```bash
 # Clone o repositório
