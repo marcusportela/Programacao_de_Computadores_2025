@@ -44,10 +44,8 @@ Este projeto foi desenvolvido por:
 ## 📽️ Simulação do sistema
 
 <a href="https://drive.google.com/file/d/1DQ3-LJ5C_BU6OdRESrUM3NKWhb3uT1lx/view?usp=sharing">
-  <img src="tumbnail_simulacao.png" alt="Assista ao vídeo" width="400">
+  <img src="tumbnail_simulacao.png" alt="Assista ao vídeo" width="500">
 </a>
-
-[![Assista ao vídeo](tumbnail_simulacao.png)](https://drive.google.com/file/d/1DQ3-LJ5C_BU6OdRESrUM3NKWhb3uT1lx/view?usp=sharing)
 
 Você também pode clonar este repositório e rodar o arquivo `tarefas.py` em seu terminal.
 
