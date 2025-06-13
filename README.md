@@ -12,12 +12,10 @@ Reunimos neste repositório todas atividades da disciplina "Programação de Com
 
 Todas as unidades:
 - Ana Carolina Barbosa de Souza - 27649865
+- Fernando Rodrigues Leite Soares - 27727424
 - Marcus Vinicius Portela da Costa - 27562689
 
 Unidade 2:  
-- Daniel Vitor Alves Mendes - 31352103  
-
-Unidade 3:
-- Fernando Rodrigues Leite Soares - 27727424
+- Daniel Vitor Alves Mendes - 31352103 
 
 
